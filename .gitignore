@@ -1,0 +1,12 @@
+# Reports and Testing Results
+node_modules
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# misc
+*.log
+*.xml
+~$*.xlsx
