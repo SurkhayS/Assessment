@@ -29,6 +29,7 @@ export default {
     open,
     navigate,
     clickOnElement,
+    getPageTitle,
     enterValueWithSelector,
     setValueWithSelector
 };
